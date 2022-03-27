@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(252, 233, 236);
+    margin-left: 100px;
+    margin-right: 100px;
+    
+    font-family: 'Times New Roman', sans-serif;
+
+}
+#title {
+    text-align: center;
+}
+#tribute-info {
+    text-align: center;
+}
+.education {
+    text-decoration: underline;
+}
+.experience {
+    text-decoration: underline;
+}
+.skill-interest {
+    text-decoration: underline;
+}
+p {
+    font-style: italic;
+}
